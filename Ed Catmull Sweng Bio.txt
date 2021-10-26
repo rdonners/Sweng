@@ -1,0 +1,38 @@
+﻿“If everyone is trying to prevent errors, it screws everything up”.  -Ed Catmull
+A quote, I wholeheartedly believe, any software engineer can get behind.  For Ed Catmull this applied to all of his work, primarily the founding of the critical and commercial juggernaut that is Pixar.
+
+
+Dr. Ed Catmull is cofounder of Pixar Animation Studios and president of Walt Disney and Pixar Animation Studios. Previously, Dr. Catmull was vice president of the Computer Division of Lucasfilm Ltd., where he managed development in the areas of computer graphics, video editing, video games and digital audio.
+
+
+From a young age, Catmull was infatuated with the art of animation, but made the disappointing realisation that he couldn’t draw very well.  Despite this his drive never waivered.  “There was no school for animation. There was no entryway into that field, and I had no idea how to get there,” he says. “Because I couldn’t figure out how to do that, I switched to computer science.”
+
+
+Whilst earning his doctorate from the University of Utah, Catmull originally sought to construct programming languages. But his path through science and technology soon led him back to his early ambitions. At the U, he learned he could combine his interests in art and computer science. He realized during his studies that he wanted to make computer-animated films, and his computer graphics discoveries enabled him to chart that course.  After meeting with  Ivan Sutherland, who had designed the computer drawing program Sketchpad, Catmull set himself further on the path to the world of digital animation and artistry.  During his studies, he made two new fundamental computer-graphics discoveries: texture mapping and bicubic patches; and invented algorithms for spatial anti-aliasing and refining subdivision surfaces.
+
+
+As one of his class assignments, Catmull tackled a short piece of digital animation. “In that class, they had some canned software that people used to make pictures,” he says. “Three of us decided not to use the canned software. Those three of us are the ones still in the industry today.” By choosing to develop his own ideas rather than use the paint-by-numbers software, he says, “I was trying to prove it was possible to do animation.”
+
+
+The end product was ‘A Computer animated hand’, a short film featuring a digital recreation of Catmull’s left hand documenting the animation process.  The short film would become the starting point and inspiration for countless CGI representations of the human form and other objects.  Thanks to Catmull, animators were limited only by their imagination, not their technology.  Through that film, Catmull proved computers could be used to create at least rudimentary animation. “What it meant for me was I had a new goal in life: to produce an animated film,” he says.
+
+
+With his doctorate in hand -pun intended-, Catmull joined the New York Institute of Technology as director of its Computer Graphics Lab, assembling a team to develop tools for 2-D and then 3-D animation.  After five years working there Catmull attracted the attention of ‘Star Wars’ director, George Lucas.  The first ‘Star Wars’ hadn’t made use of any computer animation, but according to Catmull Lucas was the only one interested in investing in movie making software, whilst the rest of the film industry seemed adverse to such technology.
+
+
+Catmull came aboard as vice president of industrial light and magic of Lucasfilm ltd, where he headed up the computer graphics division.  It was here that Catmull and his team also developed the precursor to RenderMan, the groundbreaking software and application programming interface that for the first time made it possible to produce realistic-looking complex 3-D images.  In 1982 the release of ‘Tron’, a film making heavy use of computer graphics proved to Catmull and his future co-founder John Lasseter potential of computer-generated imagery in the production of animated films, with Lasseter stating "without Tron, there would be no Toy Story."
+
+
+In 1986 ILM was sold to Steve Jobs and pivoted to become Pixar.  Catmull became the CTO, a position he would hold until his retirement until 2019.  Pixar hired a health of skilled software engineers and creative animators to create astounding technical and visual artistry.  Pixar continued to develop commercials and short films whilst Catmull established Renderman as the industry standard for 3-D imaging.  Then in 1995, Pixar made Catmull’s lifelong dream a reality in 1995 by releasing Toy Story, the first digitally animated feature film. One week after Toy Story was released, Pixar went public with the biggest IPO of the year.
+
+
+However, Catmull refused to yield.  He didn’t want to go into “coasting mode” as he calls it.  He had seen plenty of companies arrive in silicon valley and leave with their pockets empty and their tails between their legs.  Catmull realized that Pixar fostering a culture of creative and technological innovation was key.  Catmull had to not only develop the software further but look at Pixar as a business venture, a plan that could fall apart at the wrong move.  This mindset, I believe is what places him a head above the rest in the software engineering world.
+
+
+“The way you make things happen is you attract smart people and make it safe for them to create,” he says, explaining one of his business fundamentals. “If you hire people smarter than you are, it makes you smarter. …It changes the level of everything.”  He created Renderman, an open development interface, and encouraged all levels of staff to use it to create and alter the abilities of technology. 
+
+
+When Disney acquired Pixar Animation Studios in 2006, Catmull became president of both Disney Animation Studios and Pixar. He and his colleague John Lasseter were tasked with reenergizing the Disney Animation Studios. “I took my ideas and theories and had to apply them to an entirely new group of people, none of whom I knew,” Catmull says.  A daunting task, however Disney and Pixar stand as two of the most momentous animation studios and don’t show any sign of slowing down.
+
+
+Perhaps it was Catmull’s technical expertise and drive to challenge softwares capability to create beautiful imagery that lead me to profess him as a hugely influential software engineer.  Perhaps it was my own personal connection to him, and the impact and inspiration he and his work has given me throughout my life.  But honestly, I strongly believe that Catmull’s ability to take humanity’s habitual need to create and combine it with an instinctual drive to solve problems through technology, cements him as a revered software engineer.
